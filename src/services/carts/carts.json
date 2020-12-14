@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "5f6b1991df85440017160811",
+    "ownerId": "5f6b1991df8544001716080f",
+    " name": "Enis",
+    "surname": "Azizi",
+    "products": [],
+    "total": 0
+  },
+  {
+    "_id": "5f6b1991df85440017160833",
+    "ownerId": "5f6b1991df8544001716033f",
+    "name": "Ermal",
+    "surname": "Asllani",
+    "products": [],
+    "total": 0
+  },
+  {
+    "_id": "5f6b1331df85433017160833",
+    "ownerId": "5f6b1331df8544331716033f",
+    "name": "Jin",
+    "surname": "Captain",
+    "products": [
+      {
+        "name": "Strive School",
+        "description": "dasdsadasdas",
+        "brand": "12333",
+        "price": "12",
+        "_id": "bp0idw2o4kim4974s",
+        "createdAt": "2020-12-12T19:52:47.451Z",
+        "imageURL": "http://localhost:3001//img/products/bp0idw2o4kim4974s.jpg"
+      }
+    ],
+    "total": 36
+  },
+  [
+    {
+      "_id": "5f6b1991df85433017160833",
+      "ownerId": "5f6b1991df8544331716033f",
+      "name": "Riccardo",
+      "surname": "Gulin",
+      "products": [
+        {
+          "name": "Strive School",
+          "description": "dasdsadasdas",
+          "brand": "12333",
+          "price": "12",
+          "_id": "bp0idw2o4kim4974s",
+          "createdAt": "2020-12-12T19:52:47.451Z",
+          "imageURL": "http://localhost:3001//img/products/bp0idw2o4kim4974s.jpg"
+        },
+        {
+          "name": "Strive School",
+          "description": "dasdsadasdas",
+          "brand": "12333",
+          "price": "12",
+          "_id": "bp0idw2o4kim4974f",
+          "createdAt": "2020-12-12T19:52:47.451Z",
+          "imageURL": "http://localhost:3001//img/products/bp0idw2o4kim4974s.jpg"
+        }
+      ],
+      "total": 24
+    }
+  ]
+  
+]

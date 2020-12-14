@@ -4,6 +4,7 @@ const { join } = require("path")
 const cors = require("cors")
 const productsRouter = require("./services/products")
 const reviewsRouter = require("./services/reviews")
+const cartsRouter  = require("./services/carts")
 const {
   notFoundHandler,
   unauthorizedHandler,
@@ -28,6 +29,7 @@ server.use(express.static(publicFolderPath))
 
 server.use("/products", productsRouter)
 server.use("/reviews", reviewsRouter)
+server.use("/carts",cartsRouter)
 
 // ERROR HANDLERS
 
